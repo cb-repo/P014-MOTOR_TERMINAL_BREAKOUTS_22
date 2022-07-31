@@ -446,6 +446,9 @@
   (gr_line (start 229 144.803848) (end 229 134) (layer "Edge.Cuts") (width 0.05) (tstamp eb06aac7-a5fd-4229-96a5-700baab058a2))
   (gr_line (start 221 134) (end 221 139.050126) (layer "Edge.Cuts") (width 0.05) (tstamp ec7dd568-5fcd-44e0-9279-4771fcbc5302))
   (gr_arc (start 221 134) (mid 221.585786 132.585786) (end 223 132) (layer "Edge.Cuts") (width 0.05) (tstamp ed48e227-3ead-42bc-9266-4f18499ca43a))
+  (gr_text "22mm\nv1.0" (at 213.84 141.86) (layer "F.SilkS") (tstamp 1e7e6fee-967c-4817-90a8-4e349bf34e69)
+    (effects (font (size 0.8 0.8) (thickness 0.2)))
+  )
 
   (zone (net 2) (net_name "+BATT") (layers F&B.Cu) (tstamp 6a12b44e-ab68-4bcd-a5a0-6f4fcb66ec09) (hatch edge 0.508)
     (connect_pads yes (clearance 0.2))
