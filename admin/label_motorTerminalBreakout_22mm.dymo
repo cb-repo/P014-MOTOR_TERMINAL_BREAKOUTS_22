@@ -150,14 +150,14 @@
           </Margin>
           <BarcodeFormat>QRCode</BarcodeFormat>
           <Data>
-            <DataString>URL:https://github.com/cb-repo/P032-MOTOR_MOUNT_22_FACEPLATE/tree/v1.0</DataString>
+            <DataString>URL:https://github.com/cb-repo/P014-MOTOR_TERMINAL_BREAKOUTS_22/tree/v1.1</DataString>
           </Data>
           <HorizontalAlignment>Center</HorizontalAlignment>
           <VerticalAlignment>Middle</VerticalAlignment>
           <Size>AutoFit</Size>
           <EQRCodeType>QRCodeWebPage</EQRCodeType>
           <WebAddressDataHolder>
-            <DataString>https://github.com/cb-repo/P032-MOTOR_MOUNT_22_FACEPLATE/tree/v1.0</DataString>
+            <DataString>https://github.com/cb-repo/P014-MOTOR_TERMINAL_BREAKOUTS_22/tree/v1.1</DataString>
           </WebAddressDataHolder>
           <ObjectLayout>
             <DYMOPoint>
@@ -212,7 +212,7 @@
             <IsVertical>False</IsVertical>
             <LineTextSpan>
               <TextSpan>
-                <Text>Motor Mount</Text>
+                <Text>Motor Terminal</Text>
                 <FontInfo>
                   <FontName>Arial Rounded MT Bold</FontName>
                   <FontSize>8</FontSize>
@@ -229,7 +229,7 @@
             </LineTextSpan>
             <LineTextSpan>
               <TextSpan>
-                <Text>Faceplate v1.0</Text>
+                <Text>Breakout 22mm</Text>
                 <FontInfo>
                   <FontName>Arial Rounded MT Bold</FontName>
                   <FontSize>8</FontSize>
@@ -246,7 +246,7 @@
             </LineTextSpan>
             <LineTextSpan>
               <TextSpan>
-                <Text>22mm 0degree</Text>
+                <Text>v1.1</Text>
                 <FontInfo>
                   <FontName>Arial Rounded MT Bold</FontName>
                   <FontSize>8</FontSize>
