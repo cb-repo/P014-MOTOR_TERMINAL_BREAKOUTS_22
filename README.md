@@ -5,7 +5,7 @@
 Motor terminals are traditionally small and flimsy, making it hard to guarantee a reliable solder connection.
 MOTOR TERMINAL BREAKOUTS are designed to simplify and strengthen these solder joints, enabling more reliable operation especally in high vibration environments: orignially designed for combat robotics but is suitable for any application using these motors. 
   
-This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) based product by [cb-technology](https://www.cb-technology.co.nz/), Connor Benton.
+Developed, assembled, and tested in [Christchurch, New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zealand), by Connor Benton.
 
 ## FEATURES
 - Mounts to the motor at 0°, 45°, 90°, and 135° angles
@@ -16,6 +16,9 @@ This is a [New Zealand](https://www.google.co.nz/maps/place/Christchurch+New+Zea
 ## SPECIFICATIONS
 - **Dimensions:** 20x25.5x2.4 mm
 - **Weight:** 1g each
-- **Capacitance:** 10nF
+- **Capacitance:** 100nF
 - **Material:** Fiberglass
-- **Included in Package:** 2x Motor Terminal Breakouts
+
+## PACKAGE INCLUDES
+
+- 2x 22mm MOTOR TERMINAL BREAKOUTS
